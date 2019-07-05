@@ -1,2 +1,3 @@
-# Laravel-Project
-This is video play website based on Laravel and video streaming.
+This application has the ablity to add single source for videos in admin panel.
+
+Author: ChengXin Li
